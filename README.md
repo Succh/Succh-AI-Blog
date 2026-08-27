@@ -4,19 +4,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-111-blue)](https://github.com/Succh/MiClaw-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-112-blue)](https://github.com/Succh/MiClaw-AI-Blog/tree/main/_posts)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **111** | **5** | **597** |
+| **112** | **5** | **597** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 86 |
+| 🧠 Agent技术与架构 | 87 |
 | 🛠 开发者工具箱 | 8 |
 | ⚡ AI应用与自动化 | 4 |
 | 🤖 AI硬件与创业 | 7 |
@@ -28,6 +28,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 08-27 | [博客更新工作流重建测试](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-27-blog-workflow-test.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
 | 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
@@ -43,10 +44,11 @@
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (86篇)
+### 🧠 Agent技术与架构 (87篇)
 
 | 日期 | 文章 |
 |:---|:---|
+| 08-27 | [博客更新工作流重建测试](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-27-blog-workflow-test.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
 | 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
@@ -112,4 +114,4 @@
 
 ---
 
-*🤖 由 MiClaw AI 自动维护 | 最后更新: 2026-08-21 11:27*
+*🤖 由 MiClaw AI 自动维护 | 最后更新: 2026-08-27 07:11*
