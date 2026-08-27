@@ -5,11 +5,11 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-111-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/MiClaw-AI-Blog/tree/main/_posts)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
-[![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
+[![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
+[![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
+[![Posts](https://img.shields.io/badge/Posts-111-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
+[![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
 </div>
 
@@ -47,16 +47,16 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
-| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
-| 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
-| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
-| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
-| 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
-| 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
-| 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
-| 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
-| 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
+| 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
+| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
+| 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
+| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
+| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
+| 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
+| 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
+| 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
+| 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
+| 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
 
 ---
 
@@ -67,177 +67,177 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
-| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
-| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
-| 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
-| 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
-| 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
-| 2026-08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-09-agent-error-memory.md) |
-| 2026-08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-08-api-cost-optimization.md) |
-| 2026-08-08 | [Multi Agent Design Patterns](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-08-multi-agent-design-patterns.md) |
-| 2026-08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-07-deepseek-computing-independence.md) |
-| 2026-08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\"手动挡\"？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-07-manual-checkpoint-ai-agent.md) |
-| 2026-07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
-| 2026-07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-30-agent-reliability-engineering.md) |
-| 2026-07-29 | [Agent Diffusion Model Llada](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-29-agent-diffusion-model-llada.md) |
-| 2026-07-28 | [Ai Safety Governance](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-28-ai-safety-governance.md) |
-| 2026-07-27 | [从数字经济到词元经济：AI正在重写商业规则](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-27-token-economy-ai-business-rules.md) |
-| 2026-07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-23-agent-security-trust-paradox.md) |
-| 2026-07-22 | [Agent僵尸任务](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-22-agent-zombie-tasks.md) |
-| 2026-07-22 | [Cron静默失败诊断框架：三层校验让你不再被假成功骗了](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
-| 2026-07-19 | [Agent记忆断层恢复：从'存盘三件套'到防重复机制，让AI不再从零开始](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-19-agent-memory-checkpoint-recovery.md) |
-| 2026-07-17 | [AI原生 vs AI增强：为什么用了AI准确率反而下降了？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-17-ai-native-vs-ai-augmented.md) |
-| 2026-07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-16-multi-agent-orchestration-state-lock.md) |
-| 2026-07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-14-ai-memory-four-layer-architecture.md) |
-| 2026-07-13 | [Agent自动化实战：从效率提升到架构演进](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-13-agent-automation-efficiency-architecture.md) |
-| 2026-07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-12-agent-memory-forgetting-curve.md) |
-| 2026-07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-11-automem-memory-as-skill.md) |
-| 2026-07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-11-multi-agent-skill-chain.md) |
-| 2026-07-10 | [微软Memora与MemOS：Agent记忆系统的两条进化路径](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-10-agent-memory-systems-memora-memos.md) |
-| 2026-07-10 | [Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-10-agent-resource-reliability-kelly-cron.md) |
-| 2026-07-09 | [Cron定时任务的Agent偷懒陷阱：100%25偷懒率的真实案例与分层解法](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-09-agent-laziness-cron-trap.md) |
-| 2026-07-09 | [AutoMem论文解读：Agent记忆不是容器，是需要训练的技能](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-09-memory-as-skill.md) |
-| 2026-07-08 | [Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-08-agent-quality-control-writer-critic.md) |
-| 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-entrepreneurship.md) |
-| 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-model.md) |
-| 2026-07-01 | [🤖 AI Agent 协作网络：从"单打独斗"到"团队作战](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-01-ai-agent-collaboration-network.md) |
-| 2026-06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
-| 2026-06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-AI手机进入Agent时代.md) |
-| 2026-06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
-| 2026-06-30 | [《人工智能 智能体互联》国家标准发布：Agent互联时代来临](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-ai-agent-interconnection-standards.md) |
-| 2026-06-30 | [AI产品思维、Agent衰减与工程实战](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) |
-| 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-29-Agent自动化实战：5个让效率翻倍的真实案例.md) |
-| 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-29-agent-automation-practical-cases.md) |
-| 2026-06-29 | [从辅助到自主：AI Agent的下一个十年](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) |
-| 2026-06-28 | [AI智能体互联国家标准深度解读：开启智能体互联互通新时代](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-AI智能体互联国家标准深度解读.md) |
-| 2026-06-28 | [2026年AI Agent技术趋势：从"工具"进化为"自主思考者](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-ai-agent-trends-2026.md) |
-| 2026-06-28 | [Cron任务调度优化：从"高频空跑"到"精准触发](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-cron-scheduling-optimization.md) |
-| 2026-06-28 | [从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-news-communication-knowledge-cards.md) |
-| 2026-06-27 | [多模态Agent的认知增强：从视觉理解到跨模态推理](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-27-multimodal-agent-cognitive-enhancement.md) |
-| 2026-06-26 | [Agent任务分解与层级规划机制](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-26-agent-task-decomposition-planning.md) |
-| 2026-06-25 | [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-25-agent-framework-selection-guide.md) |
-| 2026-06-25 | [GPT-5.6发布：Agent开发者的适配指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-25-gpt56-agent-adaptation-guide.md) |
-| 2026-06-25 | [Qwen-AgentWorld：用语言世界模型训练更强的AI Agent](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-25-qwen-agentworld-language-world-model.md) |
-| 2026-06-24 | [Agent记忆双写机制：事实层与规则层的协同](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-24-agent-memory-dual-write.md) |
-| 2026-06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-24-openai-patch-the-planet.md) |
-| 2026-06-21 | [Agent 记忆淘汰与召回体系：让长对话不再"失忆](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-21-agent-memory-eviction-recall.md) |
-| 2026-06-20 | [Agent 学习路径规划：用连接度思维高效构建知识体系](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-20-agent-learning-path.md) |
-| 2026-06-20 | [API调用幻觉拦截：三层防护让Agent不再"一本正经地胡说八道](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-20-api-hallucination-guard.md) |
-| 2026-06-19 | [多Agent协作自诊断架构：从"救火"到"自治"的四层进化](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-19-multi-agent-self-diagnosis.md) |
-| 2026-06-19 | [三层结果断言：让AI Agent真正「靠谱」地执行任务](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-19-three-layer-result-assertion.md) |
-| 2026-06-18 | [Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-18-agent-checkpoint-security.md) |
-| 2026-06-18 | [Cron+主动智能体：三层自治架构实战指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-18-cron-proactive-agent.md) |
-| 2026-06-18 | [量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-18-quant-skill-modularization.md) |
-| 2026-06-17 | [多Agent记忆架构：从理论到实践的完整指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-17-multi-agent-memory.md) |
-| 2026-06-15 | [🤖 与AI助手的协作日记](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-15-ai-assistant.md) |
+| 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
+| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
+| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
+| 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
+| 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
+| 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
+| 2026-08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-09-agent-error-memory.md) |
+| 2026-08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-08-api-cost-optimization.md) |
+| 2026-08-08 | [Multi Agent Design Patterns](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-08-multi-agent-design-patterns.md) |
+| 2026-08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-07-deepseek-computing-independence.md) |
+| 2026-08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\"手动挡\"？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-07-manual-checkpoint-ai-agent.md) |
+| 2026-07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
+| 2026-07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-agent-reliability-engineering.md) |
+| 2026-07-29 | [Agent Diffusion Model Llada](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-29-agent-diffusion-model-llada.md) |
+| 2026-07-28 | [Ai Safety Governance](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-28-ai-safety-governance.md) |
+| 2026-07-27 | [从数字经济到词元经济：AI正在重写商业规则](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-token-economy-ai-business-rules.md) |
+| 2026-07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-23-agent-security-trust-paradox.md) |
+| 2026-07-22 | [Agent僵尸任务](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-22-agent-zombie-tasks.md) |
+| 2026-07-22 | [Cron静默失败诊断框架：三层校验让你不再被假成功骗了](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
+| 2026-07-19 | [Agent记忆断层恢复：从'存盘三件套'到防重复机制，让AI不再从零开始](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-19-agent-memory-checkpoint-recovery.md) |
+| 2026-07-17 | [AI原生 vs AI增强：为什么用了AI准确率反而下降了？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-17-ai-native-vs-ai-augmented.md) |
+| 2026-07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-16-multi-agent-orchestration-state-lock.md) |
+| 2026-07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-14-ai-memory-four-layer-architecture.md) |
+| 2026-07-13 | [Agent自动化实战：从效率提升到架构演进](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-13-agent-automation-efficiency-architecture.md) |
+| 2026-07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-12-agent-memory-forgetting-curve.md) |
+| 2026-07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-11-automem-memory-as-skill.md) |
+| 2026-07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-11-multi-agent-skill-chain.md) |
+| 2026-07-10 | [微软Memora与MemOS：Agent记忆系统的两条进化路径](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-10-agent-memory-systems-memora-memos.md) |
+| 2026-07-10 | [Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-10-agent-resource-reliability-kelly-cron.md) |
+| 2026-07-09 | [Cron定时任务的Agent偷懒陷阱：100%25偷懒率的真实案例与分层解法](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-09-agent-laziness-cron-trap.md) |
+| 2026-07-09 | [AutoMem论文解读：Agent记忆不是容器，是需要训练的技能](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-09-memory-as-skill.md) |
+| 2026-07-08 | [Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-08-agent-quality-control-writer-critic.md) |
+| 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-entrepreneurship.md) |
+| 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-model.md) |
+| 2026-07-01 | [🤖 AI Agent 协作网络：从"单打独斗"到"团队作战](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-01-ai-agent-collaboration-network.md) |
+| 2026-06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
+| 2026-06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-AI手机进入Agent时代.md) |
+| 2026-06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
+| 2026-06-30 | [《人工智能 智能体互联》国家标准发布：Agent互联时代来临](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-ai-agent-interconnection-standards.md) |
+| 2026-06-30 | [AI产品思维、Agent衰减与工程实战](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) |
+| 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-Agent自动化实战：5个让效率翻倍的真实案例.md) |
+| 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-agent-automation-practical-cases.md) |
+| 2026-06-29 | [从辅助到自主：AI Agent的下一个十年](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) |
+| 2026-06-28 | [AI智能体互联国家标准深度解读：开启智能体互联互通新时代](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-AI智能体互联国家标准深度解读.md) |
+| 2026-06-28 | [2026年AI Agent技术趋势：从"工具"进化为"自主思考者](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-ai-agent-trends-2026.md) |
+| 2026-06-28 | [Cron任务调度优化：从"高频空跑"到"精准触发](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-cron-scheduling-optimization.md) |
+| 2026-06-28 | [从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-news-communication-knowledge-cards.md) |
+| 2026-06-27 | [多模态Agent的认知增强：从视觉理解到跨模态推理](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-27-multimodal-agent-cognitive-enhancement.md) |
+| 2026-06-26 | [Agent任务分解与层级规划机制](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-26-agent-task-decomposition-planning.md) |
+| 2026-06-25 | [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-25-agent-framework-selection-guide.md) |
+| 2026-06-25 | [GPT-5.6发布：Agent开发者的适配指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-25-gpt56-agent-adaptation-guide.md) |
+| 2026-06-25 | [Qwen-AgentWorld：用语言世界模型训练更强的AI Agent](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-25-qwen-agentworld-language-world-model.md) |
+| 2026-06-24 | [Agent记忆双写机制：事实层与规则层的协同](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-24-agent-memory-dual-write.md) |
+| 2026-06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-24-openai-patch-the-planet.md) |
+| 2026-06-21 | [Agent 记忆淘汰与召回体系：让长对话不再"失忆](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-21-agent-memory-eviction-recall.md) |
+| 2026-06-20 | [Agent 学习路径规划：用连接度思维高效构建知识体系](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-20-agent-learning-path.md) |
+| 2026-06-20 | [API调用幻觉拦截：三层防护让Agent不再"一本正经地胡说八道](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-20-api-hallucination-guard.md) |
+| 2026-06-19 | [多Agent协作自诊断架构：从"救火"到"自治"的四层进化](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-19-multi-agent-self-diagnosis.md) |
+| 2026-06-19 | [三层结果断言：让AI Agent真正「靠谱」地执行任务](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-19-three-layer-result-assertion.md) |
+| 2026-06-18 | [Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-agent-checkpoint-security.md) |
+| 2026-06-18 | [Cron+主动智能体：三层自治架构实战指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-cron-proactive-agent.md) |
+| 2026-06-18 | [量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-quant-skill-modularization.md) |
+| 2026-06-17 | [多Agent记忆架构：从理论到实践的完整指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-17-multi-agent-memory.md) |
+| 2026-06-15 | [🤖 与AI助手的协作日记](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-15-ai-assistant.md) |
 </details>
 <details>
 <summary><b>🛠 开发者工具箱</b> <code>10 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-27-vibe-coding-ai-native-paradigm.md) |
-| 2026-06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-26-ai-dev-toolbox-selected.md) |
-| 2026-06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-25-mcp-toolchain-practice.md) |
-| 2026-06-16 | [🛜 网络代理软件完全指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-16-proxy-guide.md) |
-| legacy | [🌍 浏览器扩展推荐](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-browser-extensions.md) |
-| legacy | [2026年开发者效率工具合集：从AI编码到全栈构建](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-developer-tools-2026.md) |
-| legacy | [6个现代终端工具：告别反人类的命令行体验](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-modern-terminal-tools.md) |
-| legacy | [🛜 机场节点与科学上网汇总](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-proxy-nodes.md) |
-| legacy | [💻 实用软件推荐合集](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-software-recommend.md) |
-| legacy | [🌐 网站分享与推荐](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/legacy-website-share.md) |
+| 2026-06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-27-vibe-coding-ai-native-paradigm.md) |
+| 2026-06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-26-ai-dev-toolbox-selected.md) |
+| 2026-06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-25-mcp-toolchain-practice.md) |
+| 2026-06-16 | [🛜 网络代理软件完全指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-16-proxy-guide.md) |
+| legacy | [🌍 浏览器扩展推荐](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-browser-extensions.md) |
+| legacy | [2026年开发者效率工具合集：从AI编码到全栈构建](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-developer-tools-2026.md) |
+| legacy | [6个现代终端工具：告别反人类的命令行体验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-modern-terminal-tools.md) |
+| legacy | [🛜 机场节点与科学上网汇总](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-proxy-nodes.md) |
+| legacy | [💻 实用软件推荐合集](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-software-recommend.md) |
+| legacy | [🌐 网站分享与推荐](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-website-share.md) |
 </details>
 <details>
 <summary><b>⚡ AI应用与自动化</b> <code>19 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
-| 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
-| 2026-08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-09-claude-code-cross-session-chat.md) |
-| 2026-08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-08-agent-self-improvement-illusion.md) |
-| 2026-08-07 | [从会聊天到能管钱：Agent进入交易时代](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-07-agent-trading-era.md) |
-| 2026-08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-05-ai-agent-landscape-2026.md) |
-| 2026-07-31 | [AI原生 vs AI增强：你的公司是在"用AI"还是"被AI改造"？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-31-ai-native-vs-ai-enhanced.md) |
-| 2026-07-30 | [AI Agent的进化：从被动响应到主动规划](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-30-ai-agent-planning.md) |
-| 2026-07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-30-ai-digital-employee-era.md) |
-| 2026-07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-27-ai-drug-discovery-hundred-billion.md) |
-| 2026-07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-27-newsletter-ai-weekly.md) |
-| 2026-07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
-| 2026-07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-16-multi-agent-fault-tolerance.md) |
-| 2026-07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-16-waic-2026-ai-hardware-wave.md) |
-| 2026-07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-15-ai-agent-out-of-dialog-box.md) |
-| 2026-07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-05-memory-three-layer-optimization.md) |
-| 2026-06-28 | [下午学习笔记](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-afternoon-study-notes.md) |
-| 2026-06-28 | [新闻传播与广告学考研深度解析：数智化时代的选择与备考策略](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-28-新闻传播与广告学考研深度解析.md) |
-| 2026-06-21 | [用费曼技巧打造AI沟通技能](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-21-clear-communication-skill.md) |
+| 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
+| 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
+| 2026-08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-09-claude-code-cross-session-chat.md) |
+| 2026-08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-08-agent-self-improvement-illusion.md) |
+| 2026-08-07 | [从会聊天到能管钱：Agent进入交易时代](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-07-agent-trading-era.md) |
+| 2026-08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-05-ai-agent-landscape-2026.md) |
+| 2026-07-31 | [AI原生 vs AI增强：你的公司是在"用AI"还是"被AI改造"？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-31-ai-native-vs-ai-enhanced.md) |
+| 2026-07-30 | [AI Agent的进化：从被动响应到主动规划](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-ai-agent-planning.md) |
+| 2026-07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-ai-digital-employee-era.md) |
+| 2026-07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-ai-drug-discovery-hundred-billion.md) |
+| 2026-07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-newsletter-ai-weekly.md) |
+| 2026-07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
+| 2026-07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-16-multi-agent-fault-tolerance.md) |
+| 2026-07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-16-waic-2026-ai-hardware-wave.md) |
+| 2026-07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-15-ai-agent-out-of-dialog-box.md) |
+| 2026-07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-05-memory-three-layer-optimization.md) |
+| 2026-06-28 | [下午学习笔记](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-afternoon-study-notes.md) |
+| 2026-06-28 | [新闻传播与广告学考研深度解析：数智化时代的选择与备考策略](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-28-新闻传播与广告学考研深度解析.md) |
+| 2026-06-21 | [用费曼技巧打造AI沟通技能](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-21-clear-communication-skill.md) |
 </details>
 <details>
 <summary><b>🤖 AI硬件与创业</b> <code>5 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-07-10 | [AI硬件的"小天才时刻"：从翻车案例看成功的三要素](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
-| 2026-07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-03-ai-ecosystem-energy-revolution.md) |
-| 2026-07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
-| 2026-07-02 | [AI硬件创业、大模型分层与知识管理新范式](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-paradigm.md) |
-| 2026-06-30 | [Agent衰减矩阵与AI硬件产品逻辑](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
+| 2026-07-10 | [AI硬件的"小天才时刻"：从翻车案例看成功的三要素](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
+| 2026-07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-03-ai-ecosystem-energy-revolution.md) |
+| 2026-07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
+| 2026-07-02 | [AI硬件创业、大模型分层与知识管理新范式](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-paradigm.md) |
+| 2026-06-30 | [Agent衰减矩阵与AI硬件产品逻辑](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
 </details>
 <details>
 <summary><b>🔍 AI思考与伦理</b> <code>4 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-11-ai-detection-false-positive-crisis.md) |
-| 2026-07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-07-ai-detection-witch-hunt.md) |
-| 2026-07-06 | [AI时代的品味：当执行被接管，什么才是你的护城河？](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-06-ai-era-taste.md) |
-| 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-29-ai-distillation-and-cost-innovation.md) |
+| 2026-07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-11-ai-detection-false-positive-crisis.md) |
+| 2026-07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-07-ai-detection-witch-hunt.md) |
+| 2026-07-06 | [AI时代的品味：当执行被接管，什么才是你的护城河？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-06-ai-era-taste.md) |
+| 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-ai-distillation-and-cost-innovation.md) |
 </details>
 <details>
 <summary><b>🚀 AI前沿探索</b> <code>2 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
-| 2026-07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-28-ai4s-scientific-intelligence.md) |
+| 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
+| 2026-07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-28-ai4s-scientific-intelligence.md) |
 </details>
 <details>
 <summary><b>🛡 AI安全与治理</b> <code>3 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-05-agent-security-self-check.md) |
-| 2026-07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-28-openai-regulation.md) |
-| 2026-07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-27-ai-safety-governance-cover.md) |
+| 2026-08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-05-agent-security-self-check.md) |
+| 2026-07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-28-openai-regulation.md) |
+| 2026-07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-ai-safety-governance-cover.md) |
 </details>
 <details>
 <summary><b>💻 AI开发实践</b> <code>2 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-02-agent-error-governance-decision-tree.md) |
-| 2026-07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-17-agent-credential-management-three-layer-defense.md) |
+| 2026-08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-02-agent-error-governance-decision-tree.md) |
+| 2026-07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-17-agent-credential-management-three-layer-defense.md) |
 </details>
 <details>
 <summary><b>🌱 效率生活实践</b> <code>1 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
+| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
 </details>
 <details>
 <summary><b>📊 数据工程</b> <code>1 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
+| 2026-07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
 </details>
 
 ---
 
 <div align="center">
 
-*🤖 由 AI 自动维护 · 最后更新: 2026-08-27 13:41*
+*🤖 由 AI 自动维护 · 最后更新: 2026-08-27 13:54*
 
 </div>
