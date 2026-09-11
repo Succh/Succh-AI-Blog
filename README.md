@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-117-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-111-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **111** | **10** | **67 天** | **每日 10:00 写文 · 14:00 发布** |
+| **111** | **10** | **84 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,15 +30,15 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **64** | `████████████░░░░░░░░` 58% |
-| 🛠 开发者工具箱 | **10** | `██░░░░░░░░░░░░░░░░░░` 9% |
-| ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 17% |
+| 🧠 Agent技术与架构 | **62** | `███████████░░░░░░░░░` 56% |
+| 🛠 开发者工具箱 | **15** | `███░░░░░░░░░░░░░░░░░` 14% |
+| ⚡ AI应用与自动化 | **17** | `███░░░░░░░░░░░░░░░░░` 15% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🚀 AI前沿探索 | **2** | `█░░░░░░░░░░░░░░░░░░░` 2% |
 | 🛡 AI安全与治理 | **3** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 💻 AI开发实践 | **2** | `█░░░░░░░░░░░░░░░░░░░` 2% |
-| 🌱 效率生活实践 | **1** | `█░░░░░░░░░░░░░░░░░░░` 1% |
+| 🌱 效率生活实践 | **0** | `█░░░░░░░░░░░░░░░░░░░` 0% |
 | 📊 数据工程 | **1** | `█░░░░░░░░░░░░░░░░░░░` 1% |
 
 ---
@@ -47,35 +47,28 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 09-01 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-01-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-01 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-01-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
-| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
 | 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
 | 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
-| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
 | 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
-| 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
-| 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
-| 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
-| 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>64 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>62 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
-| 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
 | 2026-08-14 | [Ai Browser War 2026](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-browser-war-2026.md) |
 | 2026-08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-openclaw-ai-agent-framework.md) |
 | 2026-08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-13-silent-failure-diagnosis.md) |
@@ -107,7 +100,6 @@
 | 2026-07-08 | [Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-08-agent-quality-control-writer-critic.md) |
 | 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-entrepreneurship.md) |
 | 2026-07-02 | [11克的AI记忆，能装下多少野心？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-model.md) |
-| 2026-07-01 | [🤖 AI Agent 协作网络：从"单打独斗"到"团队作战](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-01-ai-agent-collaboration-network.md) |
 | 2026-06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
 | 2026-06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-AI手机进入Agent时代.md) |
 | 2026-06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
@@ -139,36 +131,39 @@
 | 2026-06-15 | [🤖 与AI助手的协作日记](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-15-ai-assistant.md) |
 </details>
 <details>
-<summary><b>🛠 开发者工具箱</b> <code>10 篇</code></summary>
+<summary><b>🛠 开发者工具箱</b> <code>15 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 2026-09-01 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-01-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-27-vibe-coding-ai-native-paradigm.md) |
 | 2026-06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-26-ai-dev-toolbox-selected.md) |
 | 2026-06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-25-mcp-toolchain-practice.md) |
 | 2026-06-16 | [🛜 网络代理软件完全指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-16-proxy-guide.md) |
 | legacy | [🌍 浏览器扩展推荐](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-browser-extensions.md) |
-| legacy | [2026年开发者效率工具合集：从AI编码到全栈构建](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-developer-tools-2026.md) |
 | legacy | [6个现代终端工具：告别反人类的命令行体验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-modern-terminal-tools.md) |
 | legacy | [🛜 机场节点与科学上网汇总](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-proxy-nodes.md) |
 | legacy | [💻 实用软件推荐合集](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-software-recommend.md) |
 | legacy | [🌐 网站分享与推荐](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-website-share.md) |
 </details>
 <details>
-<summary><b>⚡ AI应用与自动化</b> <code>19 篇</code></summary>
+<summary><b>⚡ AI应用与自动化</b> <code>17 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
 | 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
 | 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
 | 2026-08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-09-claude-code-cross-session-chat.md) |
-| 2026-08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-08-agent-self-improvement-illusion.md) |
 | 2026-08-07 | [从会聊天到能管钱：Agent进入交易时代](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-07-agent-trading-era.md) |
 | 2026-08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-05-ai-agent-landscape-2026.md) |
 | 2026-07-31 | [AI原生 vs AI增强：你的公司是在"用AI"还是"被AI改造"？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-31-ai-native-vs-ai-enhanced.md) |
 | 2026-07-30 | [AI Agent的进化：从被动响应到主动规划](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-ai-agent-planning.md) |
 | 2026-07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-30-ai-digital-employee-era.md) |
-| 2026-07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-ai-drug-discovery-hundred-billion.md) |
 | 2026-07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-27-newsletter-ai-weekly.md) |
 | 2026-07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
 | 2026-07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-16-multi-agent-fault-tolerance.md) |
@@ -226,13 +221,6 @@
 | 2026-07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-17-agent-credential-management-three-layer-defense.md) |
 </details>
 <details>
-<summary><b>🌱 效率生活实践</b> <code>1 篇</code></summary>
-
-| 日期 | 文章 |
-|:---|:---|
-| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
-</details>
-<details>
 <summary><b>📊 数据工程</b> <code>1 篇</code></summary>
 
 | 日期 | 文章 |
@@ -244,6 +232,6 @@
 
 <div align="center">
 
-*🤖 由 AI 自动维护 · 最后更新: 2026-09-11 01:18*
+*🤖 由 AI 自动维护 · 最后更新: 2026-09-11 01:20*
 
 </div>
