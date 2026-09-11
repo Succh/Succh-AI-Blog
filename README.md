@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-111-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-117-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -47,6 +47,12 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
+| 09-01 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-01-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
 | 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
@@ -238,6 +244,6 @@
 
 <div align="center">
 
-*🤖 由 AI 自动维护 · 最后更新: 2026-09-06 06:00*
+*🤖 由 AI 自动维护 · 最后更新: 2026-09-11 01:18*
 
 </div>
