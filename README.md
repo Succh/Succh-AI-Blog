@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **119** | **10** | **92 天** | **每日 10:00 写文 · 14:00 发布** |
+| **121** | **10** | **92 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,13 +30,13 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **64** | `███████████░░░░░░░░░` 54% |
+| 🧠 Agent技术与架构 | **65** | `███████████░░░░░░░░░` 54% |
 | 🛠 开发者工具箱 | **16** | `███░░░░░░░░░░░░░░░░░` 13% |
 | ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 16% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
-| 🚀 AI前沿探索 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
-| 🛡 AI安全与治理 | **3** | `█░░░░░░░░░░░░░░░░░░░` 3% |
+| 🚀 AI前沿探索 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
+| 🛡 AI安全与治理 | **3** | `█░░░░░░░░░░░░░░░░░░░` 2% |
 | 💻 AI开发实践 | **2** | `█░░░░░░░░░░░░░░░░░░░` 2% |
 | 🌱 效率生活实践 | **1** | `█░░░░░░░░░░░░░░░░░░░` 1% |
 | 📊 数据工程 | **1** | `█░░░░░░░░░░░░░░░░░░░` 1% |
@@ -47,9 +47,9 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 09-12 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-12-热点-开源模型-2026-最新进展与实测.md) |
-| 09-11 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-11-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-09-14 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-14-热点-大模型发布-2026-最新进展与实测.md) |
+| 2026-09-12 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-12-热点-开源模型-2026-最新进展与实测.md) |
+| 2026-09-11 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-11-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-09-10 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-10-热点-大模型发布-2026-最新进展与实测.md) |
 | 2026-09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
@@ -57,18 +57,17 @@
 | 2026-09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-01 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-01-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
-| 2026-08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-hobby-life-practice.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>64 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>65 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-09-11 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-11-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
 | 2026-08-16 | [测试文章 - GitHub写文任务测试](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-16-test-article.md) |
@@ -203,11 +202,12 @@
 | 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-ai-distillation-and-cost-innovation.md) |
 </details>
 <details>
-<summary><b>🚀 AI前沿探索</b> <code>4 篇</code></summary>
+<summary><b>🚀 AI前沿探索</b> <code>5 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
 | 2026-09-14 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-14-热点-大模型发布-2026-最新进展与实测.md) |
+| 2026-09-12 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-12-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-09-10 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-10-热点-大模型发布-2026-最新进展与实测.md) |
 | 2026-08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-12-ai-models-august-2026.md) |
 | 2026-07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-28-ai4s-scientific-intelligence.md) |
