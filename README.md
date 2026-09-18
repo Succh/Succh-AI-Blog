@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **122** | **10** | **94 天** | **每日 10:00 写文 · 14:00 发布** |
+| **124** | **10** | **96 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,9 +30,9 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **65** | `███████████░░░░░░░░░` 53% |
-| 🛠 开发者工具箱 | **16** | `███░░░░░░░░░░░░░░░░░` 13% |
-| ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 16% |
+| 🧠 Agent技术与架构 | **66** | `███████████░░░░░░░░░` 53% |
+| 🛠 开发者工具箱 | **17** | `███░░░░░░░░░░░░░░░░░` 14% |
+| ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 15% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🚀 AI前沿探索 | **6** | `█░░░░░░░░░░░░░░░░░░░` 5% |
@@ -47,8 +47,8 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 09-18 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-18-热点-AI-应用落地-2026-最新进展与实测.md) |
-| 09-17 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-17-热点-AI-编程工具-2026-最新进展与实测.md) |
+| 2026-09-18 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-18-热点-AI-应用落地-2026-最新进展与实测.md) |
+| 2026-09-17 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-17-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-09-16 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-16-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-09-14 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-14-热点-大模型发布-2026-最新进展与实测.md) |
 | 2026-09-12 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-12-热点-开源模型-2026-最新进展与实测.md) |
@@ -57,18 +57,17 @@
 | 2026-09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 2026-09-03 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-03-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
-| 2026-09-02 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-02-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>65 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>66 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-09-18 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-18-热点-AI-应用落地-2026-最新进展与实测.md) |
 | 2026-09-11 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-11-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-08-20 | [磁力搜索资源全攻略：2026年还能用的搜索神器盘点](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-20-magnet-search-guide-2026.md) |
 | 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
@@ -136,10 +135,11 @@
 | 2026-06-15 | [🤖 与AI助手的协作日记](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-15-ai-assistant.md) |
 </details>
 <details>
-<summary><b>🛠 开发者工具箱</b> <code>16 篇</code></summary>
+<summary><b>🛠 开发者工具箱</b> <code>17 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-09-17 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-17-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-09-06 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-06-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-05 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-05-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
 | 2026-09-04 | [[老Blog] 科学上网分享方向深度盘点：机场、订阅、节点 2026 现状](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-04-老Blog-科学上网分享方向深度盘点-机场-订阅-节点.md) |
