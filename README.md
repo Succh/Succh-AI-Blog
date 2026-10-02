@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **130** | **10** | **109 天** | **每日 10:00 写文 · 14:00 发布** |
+| **131** | **10** | **110 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -35,7 +35,7 @@
 | ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 15% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
-| 🚀 AI前沿探索 | **9** | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 🚀 AI前沿探索 | **10** | `██░░░░░░░░░░░░░░░░░░` 8% |
 | 🛡 AI安全与治理 | **3** | `█░░░░░░░░░░░░░░░░░░░` 2% |
 | 💻 AI开发实践 | **2** | `█░░░░░░░░░░░░░░░░░░░` 2% |
 | 🌱 效率生活实践 | **1** | `█░░░░░░░░░░░░░░░░░░░` 1% |
@@ -47,7 +47,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
+| 2026-10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-09-27 | [[热点] 多模态：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-27-热点-多模态-2026-最新进展与实测.md) |
 | 2026-09-26 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-26-热点-AI-应用落地-2026-最新进展与实测.md) |
@@ -57,7 +57,6 @@
 | 2026-09-18 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-18-热点-AI-应用落地-2026-最新进展与实测.md) |
 | 2026-09-17 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-17-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-09-16 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-16-热点-开源模型-2026-最新进展与实测.md) |
-| 2026-09-14 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-14-热点-大模型发布-2026-最新进展与实测.md) |
 
 ---
 
@@ -208,10 +207,11 @@
 | 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-29-ai-distillation-and-cost-innovation.md) |
 </details>
 <details>
-<summary><b>🚀 AI前沿探索</b> <code>9 篇</code></summary>
+<summary><b>🚀 AI前沿探索</b> <code>10 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-09-27 | [[热点] 多模态：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-27-热点-多模态-2026-最新进展与实测.md) |
 | 2026-09-24 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-24-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-09-22 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-22-热点-大模型发布-2026-最新进展与实测.md) |
