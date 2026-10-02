@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-130-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-131-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -47,6 +47,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-09-27 | [[热点] 多模态：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-27-热点-多模态-2026-最新进展与实测.md) |
 | 2026-09-26 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-26-热点-AI-应用落地-2026-最新进展与实测.md) |
@@ -257,6 +258,6 @@
 
 <div align="center">
 
-*🤖 由 AI 自动维护 · 最后更新: 2026-10-01 06:00*
+*🤖 由 AI 自动维护 · 最后更新: 2026-10-02 06:00*
 
 </div>
