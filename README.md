@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **132** | **10** | **111 天** | **每日 10:00 写文 · 14:00 发布** |
+| **133** | **10** | **113 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **69** | `██████████░░░░░░░░░░` 52% |
+| 🧠 Agent技术与架构 | **70** | `███████████░░░░░░░░░` 53% |
 | 🛠 开发者工具箱 | **18** | `███░░░░░░░░░░░░░░░░░` 14% |
 | ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 14% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
@@ -47,7 +47,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 10-05 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-05-实用分享-桌面美化指南-让电脑赏心悦目.md) |
+| 2026-10-05 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-05-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-03 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-03-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
@@ -57,17 +57,17 @@
 | 2026-09-22 | [[热点] 大模型发布：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-22-热点-大模型发布-2026-最新进展与实测.md) |
 | 2026-09-20 | [[热点] 具身智能：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-20-热点-具身智能-2026-最新进展与实测.md) |
 | 2026-09-18 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-18-热点-AI-应用落地-2026-最新进展与实测.md) |
-| 2026-09-17 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-17-热点-AI-编程工具-2026-最新进展与实测.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>69 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>70 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-05 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-05-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
 | 2026-09-26 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-26-热点-AI-应用落地-2026-最新进展与实测.md) |
 | 2026-09-20 | [[热点] 具身智能：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-20-热点-具身智能-2026-最新进展与实测.md) |
