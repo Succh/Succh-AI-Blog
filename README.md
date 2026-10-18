@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **136** | **10** | **122 天** | **每日 10:00 写文 · 14:00 发布** |
+| **139** | **10** | **126 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,9 +30,9 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **72** | `███████████░░░░░░░░░` 53% |
+| 🧠 Agent技术与架构 | **73** | `███████████░░░░░░░░░` 53% |
 | 🛠 开发者工具箱 | **19** | `███░░░░░░░░░░░░░░░░░` 14% |
-| ⚡ AI应用与自动化 | **19** | `███░░░░░░░░░░░░░░░░░` 14% |
+| ⚡ AI应用与自动化 | **21** | `███░░░░░░░░░░░░░░░░░` 15% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🚀 AI前沿探索 | **10** | `█░░░░░░░░░░░░░░░░░░░` 7% |
@@ -47,9 +47,9 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 10-18 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-18-实用分享-手机必装-App-清单-少而精的效率组合.md) |
-| 10-17 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-17-实用分享-手机必装-App-清单-少而精的效率组合.md) |
-| 10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-实用分享-桌面美化指南-让电脑赏心悦目.md) |
+| 2026-10-18 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-18-实用分享-手机必装-App-清单-少而精的效率组合.md) |
+| 2026-10-17 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-17-实用分享-手机必装-App-清单-少而精的效率组合.md) |
+| 2026-10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-14 | [[网站推荐] 壁纸/素材免费下载网站：设计狗福音](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-14-网站推荐-壁纸-素材免费下载网站-设计狗福音.md) |
 | 2026-10-11 | [[影视推荐] 悬疑推理片单：每一部都让你猜不到结局](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-11-影视推荐-悬疑推理片单-每一部都让你猜不到结局.md) |
 | 2026-10-09 | [[热点] 智能体](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-09-热点-智能体.md) |
@@ -57,19 +57,17 @@
 | 2026-10-03 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-03-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
 | 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
-| 2026-09-27 | [[热点] 多模态：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-27-热点-多模态-2026-最新进展与实测.md) |
-| 2026-09-26 | [[热点] AI 应用落地：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-26-热点-AI-应用落地-2026-最新进展与实测.md) |
-| 2026-09-24 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-09-24-热点-开源模型-2026-最新进展与实测.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>72 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>73 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-11 | [[影视推荐] 悬疑推理片单：每一部都让你猜不到结局](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-11-影视推荐-悬疑推理片单-每一部都让你猜不到结局.md) |
 | 2026-10-09 | [[热点] 智能体](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-09-热点-智能体.md) |
 | 2026-10-05 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-05-实用分享-桌面美化指南-让电脑赏心悦目.md) |
@@ -169,10 +167,12 @@
 | legacy | [🌐 网站分享与推荐](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/legacy-website-share.md) |
 </details>
 <details>
-<summary><b>⚡ AI应用与自动化</b> <code>19 篇</code></summary>
+<summary><b>⚡ AI应用与自动化</b> <code>21 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-18 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-18-实用分享-手机必装-App-清单-少而精的效率组合.md) |
+| 2026-10-17 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-17-实用分享-手机必装-App-清单-少而精的效率组合.md) |
 | 2026-08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
 | 2026-08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-14-ai-designed-virus-biosafety.md) |
 | 2026-08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-09-claude-code-cross-session-chat.md) |
