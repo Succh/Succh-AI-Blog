@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-140-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-135-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -22,7 +22,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **139** | **10** | **126 天** | **每日 10:00 写文 · 14:00 发布** |
+| **135** | **10** | **126 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -30,9 +30,9 @@
 
 | 板块 | 文章数 | 占比 |
 |:---|:---:|:---|
-| 🧠 Agent技术与架构 | **73** | `███████████░░░░░░░░░` 53% |
+| 🧠 Agent技术与架构 | **69** | `██████████░░░░░░░░░░` 51% |
 | 🛠 开发者工具箱 | **19** | `███░░░░░░░░░░░░░░░░░` 14% |
-| ⚡ AI应用与自动化 | **21** | `███░░░░░░░░░░░░░░░░░` 15% |
+| ⚡ AI应用与自动化 | **21** | `███░░░░░░░░░░░░░░░░░` 16% |
 | 🤖 AI硬件与创业 | **5** | `█░░░░░░░░░░░░░░░░░░░` 4% |
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🚀 AI前沿探索 | **10** | `█░░░░░░░░░░░░░░░░░░░` 7% |
@@ -47,7 +47,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 10-19 | [[影视推荐] 治愈系动画/剧集推荐：温暖整个周末](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-19-影视推荐-治愈系动画-剧集推荐-温暖整个周末.md) |
+| 2026-10-19 | [[影视推荐] 治愈系动画/剧集推荐：温暖整个周末](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-19-影视推荐-治愈系动画-剧集推荐-温暖整个周末.md) |
 | 2026-10-18 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-18-实用分享-手机必装-App-清单-少而精的效率组合.md) |
 | 2026-10-17 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-17-实用分享-手机必装-App-清单-少而精的效率组合.md) |
 | 2026-10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-实用分享-桌面美化指南-让电脑赏心悦目.md) |
@@ -57,17 +57,17 @@
 | 2026-10-05 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-05-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-03 | [[热点] AI 编程工具：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-03-热点-AI-编程工具-2026-最新进展与实测.md) |
 | 2026-10-02 | [[热点] 开源模型：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-02-热点-开源模型-2026-最新进展与实测.md) |
-| 2026-10-01 | [[热点] AI 芯片：2026 最新进展与实测](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-01-热点-AI-芯片-2026-最新进展与实测.md) |
 
 ---
 
 ## 📚 技术图谱
 
 <details>
-<summary><b>🧠 Agent技术与架构</b> <code>73 篇</code></summary>
+<summary><b>🧠 Agent技术与架构</b> <code>69 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-19 | [[影视推荐] 治愈系动画/剧集推荐：温暖整个周末](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-19-影视推荐-治愈系动画-剧集推荐-温暖整个周末.md) |
 | 2026-10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-实用分享-桌面美化指南-让电脑赏心悦目.md) |
 | 2026-10-11 | [[影视推荐] 悬疑推理片单：每一部都让你猜不到结局](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-11-影视推荐-悬疑推理片单-每一部都让你猜不到结局.md) |
 | 2026-10-09 | [[热点] 智能体](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-09-热点-智能体.md) |
@@ -132,15 +132,10 @@
 | 2026-06-24 | [Agent记忆双写机制：事实层与规则层的协同](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-24-agent-memory-dual-write.md) |
 | 2026-06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-24-openai-patch-the-planet.md) |
 | 2026-06-21 | [Agent 记忆淘汰与召回体系：让长对话不再"失忆](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-21-agent-memory-eviction-recall.md) |
-| 2026-06-20 | [Agent 学习路径规划：用连接度思维高效构建知识体系](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-20-agent-learning-path.md) |
-| 2026-06-20 | [API调用幻觉拦截：三层防护让Agent不再"一本正经地胡说八道](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-20-api-hallucination-guard.md) |
 | 2026-06-19 | [多Agent协作自诊断架构：从"救火"到"自治"的四层进化](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-19-multi-agent-self-diagnosis.md) |
-| 2026-06-19 | [三层结果断言：让AI Agent真正「靠谱」地执行任务](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-19-three-layer-result-assertion.md) |
 | 2026-06-18 | [Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-agent-checkpoint-security.md) |
 | 2026-06-18 | [Cron+主动智能体：三层自治架构实战指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-cron-proactive-agent.md) |
-| 2026-06-18 | [量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-18-quant-skill-modularization.md) |
 | 2026-06-17 | [多Agent记忆架构：从理论到实践的完整指南](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-17-multi-agent-memory.md) |
-| 2026-06-15 | [🤖 与AI助手的协作日记](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-06-15-ai-assistant.md) |
 </details>
 <details>
 <summary><b>🛠 开发者工具箱</b> <code>19 篇</code></summary>
@@ -267,6 +262,6 @@
 
 <div align="center">
 
-*🤖 由 AI 自动维护 · 最后更新: 2026-10-19 06:00*
+*🤖 由 AI 自动维护 · 最后更新: 2026-10-19 06:01*
 
 </div>
