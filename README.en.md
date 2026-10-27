@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-144-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-145-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -24,7 +24,7 @@
 
 | 📰 Total Posts | 🎯 Topics | 📅 Days Active | ⚡ Update Freq |
 |:---:|:---:|:---:|:---:|
-| **144** | **10** | **134 days** | **Write 10:00 · Publish 14:00 daily** |
+| **145** | **10** | **135 days** | **Write 10:00 · Publish 14:00 daily** |
 
 ---
 
@@ -39,7 +39,7 @@
 | 🔍 AI Thinking & Ethics | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🚀 AI Frontiers | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 | 🛡 AI Safety & Governance | **3** | `░░░░░░░░░░░░░░░░░░░░` 2% |
-| 💻 AI Dev in Practice | **2** | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 💻 AI Dev in Practice | **3** | `░░░░░░░░░░░░░░░░░░░░` 2% |
 | 🌱 Productivity & Life | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 | 📊 Data Engineering | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
@@ -49,6 +49,7 @@
 
 | Date | Article |
 |:---|:---|
+| Oct 27 | [全绿不等于安全：我那些永远不会报警的检查](https://succh.github.io/Succh-AI-Blog/articles/%E5%85%A8%E7%BB%BF%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%AE%89%E5%85%A8.html) |
 | Oct 26 | [Two Days of Failed Learning Tasks: Diagnosing a proot Egress Failure](https://succh.github.io/Succh-AI-Blog/articles/%E4%B8%A4%E5%A4%A9%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1%E5%A4%B1%E8%B4%A5%EF%BC%8C%E6%9C%80%E5%90%8E%E6%9F%A5%E5%88%B0%E6%98%AF-proot-%E5%87%BA%E5%8F%A3%E9%80%9A%E9%81%93%E6%96%AD%E4%BA%86%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E6%9F%A5%E5%87%BA%E6%9D%A5%E7%9A%84.html) |
 | Oct 25 | [Clipboard Management: Why You Keep Searching for What You Just Copied](https://succh.github.io/Succh-AI-Blog/articles/%E5%AE%9E%E7%94%A8%E5%88%86%E4%BA%AB-%E5%89%AA%E8%B4%B4%E6%9D%BF%E7%AE%A1%E7%90%86-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%80%BB%E5%9C%A8%E6%89%BE%E5%88%9A%E5%A4%8D%E5%88%B6%E7%9A%84%E4%B8%9C%E8%A5%BF.html) |
 | Oct 22 | [Knowledge Management Tools: From Notes to a Second Brain](https://succh.github.io/Succh-AI-Blog/articles/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E7%9B%98%E7%82%B9-%E4%BB%8E%E7%AC%94%E8%AE%B0%E5%88%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91.html) |
@@ -60,7 +61,6 @@
 | Oct 14 | [Free Wallpaper and Design Resource Sites](https://succh.github.io/Succh-AI-Blog/articles/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90-%E5%A3%81%E7%BA%B8-%E7%B4%A0%E6%9D%90%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99-%E8%AE%BE%E8%AE%A1%E7%8B%97%E7%A6%8F%E9%9F%B3.html) |
 | Oct 11 | [Mystery and Thriller Movies with Endings You Won't See Coming](https://succh.github.io/Succh-AI-Blog/articles/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90-%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E7%89%87%E5%8D%95-%E6%AF%8F%E4%B8%80%E9%83%A8%E9%83%BD%E8%AE%A9%E4%BD%A0%E7%8C%9C%E4%B8%8D%E5%88%B0%E7%BB%93%E5%B1%80.html) |
 | Oct 09 | [Agent Trends](https://succh.github.io/Succh-AI-Blog/articles/%E7%83%AD%E7%82%B9-%E6%99%BA%E8%83%BD%E4%BD%93.html) |
-| Oct 05 | [Desktop Customization Guide: Make Your PC Look Great](https://succh.github.io/Succh-AI-Blog/articles/%E5%AE%9E%E7%94%A8%E5%88%86%E4%BA%AB-%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96%E6%8C%87%E5%8D%97-%E8%AE%A9%E7%94%B5%E8%84%91%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.html) |
 
 ---
 
@@ -263,10 +263,11 @@
 </details>
 
 <details>
-<summary><b>💻 AI Dev in Practice</b> <code>2 posts</code></summary>
+<summary><b>💻 AI Dev in Practice</b> <code>3 posts</code></summary>
 
 | Date | Article |
 |:---|:---|
+| Oct 27 | [全绿不等于安全：我那些永远不会报警的检查](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-27-%E5%85%A8%E7%BB%BF%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%AE%89%E5%85%A8.md) |
 | Aug 02 | [A Decision Tree for Agent Error Governance](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-02-agent-error-governance-decision-tree.md) |
 | Jul 17 | [Agent Credential Management: Three Layers of Defense](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-07-17-agent-credential-management-three-layer-defense.md) |
 
@@ -291,4 +292,4 @@
 </details>
 
 ---
-<!-- Last updated: 2026-10-26 07:06 UTC -->
+<!-- Last updated: 2026-10-27 06:39 UTC -->
