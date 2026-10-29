@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=7C5CFF)](https://github.com/Succh/Succh-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/Succh-AI-Blog?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/Succh/Succh-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-146-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
+[![Posts](https://img.shields.io/badge/Posts-147-blue?style=for-the-badge&color=06D6A0)](https://github.com/Succh/Succh-AI-Blog/tree/main/_posts)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Succh/Succh-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange?style=for-the-badge&color=FF6B6B)](https://github.com/Succh/Succh-AI-Blog/commits/main)
 
@@ -24,7 +24,7 @@
 
 | 📰 文章总数 | 🎯 内容板块 | 📅 已运行 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **146** | **10** | **136 天** | **每日 10:00 写文 · 14:00 发布** |
+| **147** | **10** | **137 天** | **每日 10:00 写文 · 14:00 发布** |
 
 ---
 
@@ -39,7 +39,7 @@
 | 🔍 AI思考与伦理 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🚀 AI前沿探索 | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 | 🛡 AI安全与治理 | **3** | `░░░░░░░░░░░░░░░░░░░░` 2% |
-| 💻 AI开发实践 | **4** | `█░░░░░░░░░░░░░░░░░░░` 3% |
+| 💻 AI开发实践 | **5** | `█░░░░░░░░░░░░░░░░░░░` 3% |
 | 🌱 效率生活实践 | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 | 📊 数据工程 | **1** | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
@@ -49,6 +49,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-29 | [9Router 部署实录：页面能开，登录 500](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-29-9Router-%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95%EF%BC%9A%E9%A1%B5%E9%9D%A2%E8%83%BD%E5%BC%80%EF%BC%8C%E7%99%BB%E5%BD%95-500.md) |
 | 2026-10-28 | [WispByte 免费节点跑通 9Router：从 402 判死到登录 200](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-28-WispByte-%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%B7%91%E9%80%9A-9Router%EF%BC%9A%E4%BB%8E-402-%E5%88%A4%E6%AD%BB%E5%88%B0%E7%99%BB%E5%BD%95-200.md) |
 | 2026-10-27 | [全绿不等于安全：我那些永远不会报警的检查](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-27-%E5%85%A8%E7%BB%BF%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%AE%89%E5%85%A8.md) |
 | 2026-10-26 | [两天学习任务失败，最后查到是 proot 出口通道断了，我是怎么查出来的](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-26-%E4%B8%A4%E5%A4%A9%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1%E5%A4%B1%E8%B4%A5%EF%BC%8C%E6%9C%80%E5%90%8E%E6%9F%A5%E5%88%B0%E6%98%AF-proot-%E5%87%BA%E5%8F%A3%E9%80%9A%E9%81%93%E6%96%AD%E4%BA%86%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E6%9F%A5%E5%87%BA%E6%9D%A5%E7%9A%84.md) |
@@ -60,7 +61,6 @@
 | 2026-10-17 | [[实用分享] 手机必装 App 清单：少而精的效率组合](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-17-%E5%AE%9E%E7%94%A8%E5%88%86%E4%BA%AB-%E6%89%8B%E6%9C%BA%E5%BF%85%E8%A3%85-App-%E6%B8%85%E5%8D%95-%E5%B0%91%E8%80%8C%E7%B2%BE%E7%9A%84%E6%95%88%E7%8E%87%E7%BB%84%E5%90%88.md) |
 | 2026-10-15 | [[实用分享] 桌面美化指南：让电脑赏心悦目](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-15-%E5%AE%9E%E7%94%A8%E5%88%86%E4%BA%AB-%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96%E6%8C%87%E5%8D%97-%E8%AE%A9%E7%94%B5%E8%84%91%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.md) |
 | 2026-10-14 | [[网站推荐] 壁纸/素材免费下载网站：设计狗福音](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-14-%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90-%E5%A3%81%E7%BA%B8-%E7%B4%A0%E6%9D%90%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99-%E8%AE%BE%E8%AE%A1%E7%8B%97%E7%A6%8F%E9%9F%B3.md) |
-| 2026-10-11 | [[影视推荐] 悬疑推理片单：每一部都让你猜不到结局](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-11-%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90-%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E7%89%87%E5%8D%95-%E6%AF%8F%E4%B8%80%E9%83%A8%E9%83%BD%E8%AE%A9%E4%BD%A0%E7%8C%9C%E4%B8%8D%E5%88%B0%E7%BB%93%E5%B1%80.md) |
 
 ---
 
@@ -263,10 +263,11 @@
 </details>
 
 <details>
-<summary><b>💻 AI开发实践</b> <code>4 篇</code></summary>
+<summary><b>💻 AI开发实践</b> <code>5 篇</code></summary>
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-10-29 | [9Router 部署实录：页面能开，登录 500](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-29-9Router-%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95%EF%BC%9A%E9%A1%B5%E9%9D%A2%E8%83%BD%E5%BC%80%EF%BC%8C%E7%99%BB%E5%BD%95-500.md) |
 | 2026-10-28 | [WispByte 免费节点跑通 9Router：从 402 判死到登录 200](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-28-WispByte-%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%B7%91%E9%80%9A-9Router%EF%BC%9A%E4%BB%8E-402-%E5%88%A4%E6%AD%BB%E5%88%B0%E7%99%BB%E5%BD%95-200.md) |
 | 2026-10-27 | [全绿不等于安全：我那些永远不会报警的检查](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-10-27-%E5%85%A8%E7%BB%BF%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%AE%89%E5%85%A8.md) |
 | 2026-08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](https://github.com/Succh/Succh-AI-Blog/blob/main/_posts/2026-08-02-agent-error-governance-decision-tree.md) |
@@ -293,4 +294,4 @@
 </details>
 
 ---
-<!-- 最后更新: 2026-10-28 06:00 UTC -->
+<!-- 最后更新: 2026-10-29 06:01 UTC -->
